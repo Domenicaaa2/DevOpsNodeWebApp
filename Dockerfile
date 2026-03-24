@@ -1,5 +1,5 @@
-# docker build -t mosazhaw/node-web-app .
-# docker run -p 3001:3000 --name expressapp -d mosazhaw/node-web-app
+# docker build -t habegnin/node-web-app .
+# docker run -p 3001:3000 --name expressapp -d habegnin/node-web-app
 
 FROM node:24.11.1
 
